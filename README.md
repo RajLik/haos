@@ -4,7 +4,7 @@ Po naklonování projektu použijte příkaz composer install, případně compo
 Pak si zkopírujte `.env.example` a změňte název na `.env`.
 V souboru následně vyplňte tyto hodnoty:<br>
 ***
-<b>K nastavení DB</b><br>
+<b>Pro nastavení DB</b><br>
 `DB_CONNECTION=mysql`<br>
 `DB_HOST=127.0.0.1`<br>
 `DB_PORT=3306`<br>
@@ -13,7 +13,7 @@ V souboru následně vyplňte tyto hodnoty:<br>
 `DB_PASSWORD=`<br>
 ***
 
-<b>Kvůli odesílání emailů (zprávy, objednávky, faktury)</b><br>
+<b>Pro odesílání emailů (zprávy, objednávky, faktury)</b><br>
 `MAIL_MAILER=`<br>
 `MAIL_HOST=`<br>
 `MAIL_PORT=`<br>
