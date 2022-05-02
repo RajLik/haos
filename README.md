@@ -1,7 +1,7 @@
 <h1>Základní setup</h1>
-Po naklonování projektu použijte příkaz composer install, případně composer update 
+Po naklonování projektu použijte příkaz composer install, případně composer update
 
-Pak si zkopírujte .env.example a změňte název na ".env".
+Pak si zkopírujte `.env.example` a změňte název na `.env`.
 V souboru následně vyplňte tyto hodnoty:<br>
 ***
 <b>K nastavení DB</b><br>
