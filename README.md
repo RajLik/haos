@@ -1,7 +1,8 @@
 <h1>Základní setup</h1>
-Po naklonování projektu použijte příkaz composer install, případně composer update
+Po naklonování projektu použijte příkaz composer install, případně composer update<br>
 Do projektu dále patří ještě tento package:
 `composer require barryvdh/laravel-dompdf`
+
 
 Pak si zkopírujte `.env.example` a změňte název na `.env`.
 V souboru následně vyplňte tyto hodnoty:<br>
